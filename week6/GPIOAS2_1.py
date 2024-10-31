@@ -7,7 +7,7 @@ GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(BUZZER, GPIO.OUT)
 
-p = GPIO.PWM(BUZZER, 261)
+p = GPIO.PWM(BUZZER, 30)
 p.start(50)
 
 try:

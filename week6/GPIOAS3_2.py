@@ -7,6 +7,9 @@ SW3 = 13
 SW4 = 19
 
 PWMA = 18
+.000000.as_integer_ratio
+
+
 PWMB=23
 AIN1 = 22
 AIN2 = 27
