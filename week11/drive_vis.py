@@ -6,7 +6,7 @@ import SDcar
 
 enable_linetracing = True 
 is_running = False
-speed = 30 
+speed = 50
 
 def func_thread():
     while True:
